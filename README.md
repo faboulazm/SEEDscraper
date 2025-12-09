@@ -8,9 +8,9 @@ A webscraper pipeline to automate extracting proteins seed sequences from UniPro
 3. beautifulsoup4
 
 ## Installation & Use: 
-`git clone https://github.com/faboulazm/SEEDscraper.git
-cd SEEDscraper
-python src/SEEDscraper.py`
+1. `git clone https://github.com/faboulazm/SEEDscraper.git`
+2. `cd SEEDscraper`
+3. `python src/SEEDscraper.py`
 
 ## Workflow: 
 1. Run the pipeline & enter queries for proteins of interest. 
