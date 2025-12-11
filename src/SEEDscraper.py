@@ -6,7 +6,7 @@ import sqlite3
 
 all_fasta_data = ""
 print("=====================================")
-print("Welcome to Faitma's SEEDscraper :)")
+print("Welcome to Fatima's SEEDscraper :)")
 print("Enter UniProt queries one by one. Type EXIT to finish and create database.")
 print("Query example: MurA AND (taxonomy_name:2) AND (reviewed:true)")
 print("=====================================")
