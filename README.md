@@ -1,4 +1,4 @@
-# SEED SCRAPER
+# SEED SCRAPER 🌰
 
 A webscraper pipeline to automate extracting proteins seed sequences from UniProtKB database using query entries. Stores concatenated sequences into fasta file and SQL database. 
 
